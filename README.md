@@ -20,11 +20,7 @@ To properly align a single line form over a video background.
   $ npm install
   ```
 4. Put a video in your local folder for the home page background and include that video path in `index.html`.
-For .mp4 format, include as below:
 
-  ```
-  <source src= VIDEOPATH type="video/mp4" />
-  ```
 4. Run gulp command.
 
    ```
