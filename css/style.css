@@ -1,5 +1,12 @@
 body{
   margin: 0;
+  background: black;
+}
+.video-container{
+  position: relative;
+  height: 100vh;
+  max-width: 100%;
+  overflow: hidden;
 }
 video{
   position: relative;
@@ -39,4 +46,10 @@ input[type="text"]{
 }
 label{
   align-self: center;
+}
+
+@media all and (max-width: 768px){
+  .frm_items{
+    display: none;
+  }
 }

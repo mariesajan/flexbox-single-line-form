@@ -21,10 +21,10 @@ To properly align a single line form over a video background.
   ```
 4. Put a video in your local folder for the home page background and include that video path in `index.html`.
 
-4. Run gulp command.
+5. Run gulp command.
 
    ```
    $ gulp watch
    ```
 
-5. Open `index.html` in your directory to see the webpage.
+6. Open `index.html` in your directory to see the webpage.
